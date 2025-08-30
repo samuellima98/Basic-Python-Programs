@@ -5,7 +5,7 @@ palavras = [
     "gato", "maca", "brasil", "bicicleta", "parque", "girassol",
     "computador", "banana", "aviao", "elefante", "caneta", "oceano",
     "cachorro", "laranja", "franca", "passaro", "cidade", "montanha",
-    "carro", "tigre"
+    "carro", "tigre", "brasil", "alemanha"
 ]
 
 # Sorteia uma única palavra da lista
